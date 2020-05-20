@@ -40,7 +40,7 @@ def main():
     except APIException as e:
         print(e)
 
-
+    ##### bonous for fun
     # simple way to use the SDK to get the ips of all the devices on the network
     ip = []
     devices = {}
